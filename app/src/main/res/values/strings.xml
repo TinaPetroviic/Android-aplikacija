@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Flowers</string>
+    <string name="email">Email</string>
+    <string name="dobrodosli">Dobrodošli!</string>
+    <string name="istrazite_koje_se_biljke_nalaze_na_podrucju_hercegovine">Istražite koje se biljke nalaze na području Hercegovine..</string>
+    <string name="krenimo">Krenimo</string>
+    <string name="dobrodosli_natrag">Dobrodošli natrag</string>
+    <string name="prijavite_se_u_svoj_racun">Prijavite se u svoj račun</string>
+    <string name="lozinka">Lozinka</string>
+    <string name="jeste_li_zaboravili_lozinku">Jeste li zaboravili lozinku?</string>
+    <string name="registriraj_se">Registriraj se</string>
+    <string name="nemate_racun">Nemate račun?</string>
+    <string name="prijava">Prijava</string>
+    <string name="vec_imate_racun">Već imate račun?</string>
+    <string name="prijavi_se">Prijavi se</string>
+    <string name="registracija">Registracija</string>
+    <string name="kreiraj_svoj_racun">Kreiraj svoj račun</string>
+    <string name="ime">Ime</string>
+    <string name="potvrda_lozinke">Potvrda lozinke</string>
+    <string name="istra_ite_koje_se_biljke_nalaze_na_podru_ju_hercegovine">Istražite koje se biljke nalaze na području Hercegovine..</string>
+    <string name="dobrodo_li_natrag">Dobrodošli natrag</string>
+    <string name="prijavite_se_u_svoj_ra_un">Prijavite se u svoj račun</string>
+    <string name="nemate_ra_un">Nemate račun?</string>
+    <string name="ve_imate_ra_un">Već imate račun?</string>
+    <string name="kreiraj_svoj_ra_un">Kreiraj svoj račun</string>
+    <string name="ruža">Ruža</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="opis">Opis</string>
+    <string name="ime_cvijeta">Ime cvijeta</string>
+    <string name="Opis">Opis</string>
+    <string name="Ime_cvijeta">Ime cvijeta</string>
+
+    <string-array name="flowers_array">
+        <item>Ruža</item>
+        <item>Maslačak</item>
+        <item>Ivančica</item>
+        <item>Šafran</item>
+        <item>Ljiljan</item>
+        <item>Ljubičica</item>
+        <item>Hortenzija</item>
+        <item>Maćuhica</item>
+    </string-array>
+
+
+</resources>

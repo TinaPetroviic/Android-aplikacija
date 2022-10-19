@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/drawable-v24/Flowery_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.148" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/drawable-v24/ic_launcherr_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/drawable/Flowery_background.xml" value="0.1" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/drawable/activity_viewpager.xml" value="0.148" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/drawable/background_edittext.xml" value="0.1" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/drawable/ic_launcherr_background.xml" value="0.1" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/drawable/photo.xml" value="0.171" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/drawable/search_view.xml" value="0.1" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/drawable/search_view_bg.xml" value="0.1085" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/a.xml" value="0.1" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/activity_detail.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/activity_details.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/activity_flowers3.xml" value="0.22" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/activity_item_card.xml" value="0.1" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/activity_login1.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/activity_maps.xml" value="0.1358695652173913" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/activity_registration2.xml" value="0.13269927536231885" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/activity_rose.xml" value="0.22" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/activity_viewpager.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/layout/menu.xml" value="0.1" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/menu/menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/mipmap-anydpi-v26/Blossom.xml" value="0.184" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1115" />
+        <entry key="..\:/Users/Tina Petrovic/Desktop/flower/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.184" />
+        <entry key="app/src/main/res/layout/activity_flowers3.xml" value="0.5920047031158142" />
+        <entry key="app/src/main/res/layout/activity_item_card.xml" value="0.47675628662109376" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
